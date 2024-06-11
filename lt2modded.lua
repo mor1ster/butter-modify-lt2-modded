@@ -20,7 +20,7 @@ pcall(function()
 end)
 ]]
 
-if game.PlaceId == 15740639668 then -- (Winter!) The lumber magnate has been modified!
+if game.PlaceId == 15740639668 then -- 🌳 Lumber Tycoon 2
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter/main/lt2'))("")
 elseif game.PlaceId == 6897226634 then -- Timber! 🌲
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter/main/timber-obfuscated.lua'))("")
